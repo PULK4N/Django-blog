@@ -153,4 +153,8 @@ cython_debug/
 # VScode
 .vscode
 
+# Django 
+#migrations
+migrations/
+
 # End of https://www.toptal.com/developers/gitignore/api/django
